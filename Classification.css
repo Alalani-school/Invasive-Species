@@ -6,6 +6,9 @@ body {
 img {
   text-align: right;
 }
-ul li a:hover {
-  background: lightred;
+a {
+  color: red;
+}
+a:hover {
+  color: lightred;
 }
